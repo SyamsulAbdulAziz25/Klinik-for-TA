@@ -1,0 +1,55 @@
+D:\Insyaallah TA\K System\K System\bin\K System.dll.config
+D:\Insyaallah TA\K System\K System\bin\K System.dll
+D:\Insyaallah TA\K System\K System\bin\K System.pdb
+D:\Insyaallah TA\K System\K System\bin\Antlr3.Runtime.dll
+D:\Insyaallah TA\K System\K System\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Insyaallah TA\K System\K System\bin\AspNet.ScriptManager.jQuery.dll
+D:\Insyaallah TA\K System\K System\bin\EntityFramework.dll
+D:\Insyaallah TA\K System\K System\bin\EntityFramework.SqlServer.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Google.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Web.Infrastructure.dll
+D:\Insyaallah TA\K System\K System\bin\Newtonsoft.Json.dll
+D:\Insyaallah TA\K System\K System\bin\Owin.dll
+D:\Insyaallah TA\K System\K System\bin\System.Web.Optimization.dll
+D:\Insyaallah TA\K System\K System\bin\System.Web.Providers.dll
+D:\Insyaallah TA\K System\K System\bin\WebGrease.dll
+D:\Insyaallah TA\K System\K System\bin\System.Web.Optimization.xml
+D:\Insyaallah TA\K System\K System\bin\Antlr3.Runtime.pdb
+D:\Insyaallah TA\K System\K System\bin\Newtonsoft.Json.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Insyaallah TA\K System\K System\bin\EntityFramework.xml
+D:\Insyaallah TA\K System\K System\bin\EntityFramework.SqlServer.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Google.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Insyaallah TA\K System\K System\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Insyaallah TA\K System\K System\obj\Debug\K System.csprojResolveAssemblyReference.cache
+D:\Insyaallah TA\K System\K System\obj\Debug\K System.dll
+D:\Insyaallah TA\K System\K System\obj\Debug\K System.pdb
+D:\Insyaallah TA\K System\K System\bin\BussinesLogic.dll
+D:\Insyaallah TA\K System\K System\bin\DataAcces.dll
+D:\Insyaallah TA\K System\K System\bin\BussinesLogic.pdb
+D:\Insyaallah TA\K System\K System\bin\DataAcces.pdb

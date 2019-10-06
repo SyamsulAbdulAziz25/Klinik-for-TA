@@ -1,0 +1,5 @@
+D:\Insyaallah TA\K System\DataAcces\bin\Debug\DataAcces.dll
+D:\Insyaallah TA\K System\DataAcces\bin\Debug\DataAcces.pdb
+D:\Insyaallah TA\K System\DataAcces\obj\Debug\DataAcces.csprojResolveAssemblyReference.cache
+D:\Insyaallah TA\K System\DataAcces\obj\Debug\DataAcces.dll
+D:\Insyaallah TA\K System\DataAcces\obj\Debug\DataAcces.pdb

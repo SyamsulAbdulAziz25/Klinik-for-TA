@@ -1,0 +1,7 @@
+D:\Insyaallah TA\K System\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Insyaallah TA\K System\BussinesLogic\bin\Debug\BussinesLogic.pdb
+D:\Insyaallah TA\K System\BussinesLogic\bin\Debug\DataAcces.dll
+D:\Insyaallah TA\K System\BussinesLogic\bin\Debug\DataAcces.pdb
+D:\Insyaallah TA\K System\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+D:\Insyaallah TA\K System\BussinesLogic\obj\Debug\BussinesLogic.dll
+D:\Insyaallah TA\K System\BussinesLogic\obj\Debug\BussinesLogic.pdb
